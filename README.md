@@ -30,14 +30,14 @@ Submit Button
 
 Milestones
 
-o Project Plan
-o GitHub Repo
-o Basic Webpage Layout
-o Determine Complexity & adjust needs, run by mentor(s) if changes needed
-o Creating Queries with Cube.js
-o Verify API’s added & working
-o Test webpage and correct any errors
-o Submit Project
+Project Plan
+GitHub Repo
+Basic Webpage Layout
+Determine Complexity & adjust needs, run by mentor(s) if changes needed
+Creating Queries with Cube.js
+Verify API’s added & working
+Test webpage and correct any errors
+Submit Project
 
 
 
