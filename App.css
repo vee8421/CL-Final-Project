@@ -1,0 +1,27 @@
+html {
+    box-sizing: border-box; 
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+.container {
+    background-image: url("https://www.tbsearch.fr/wp-content/uploads/2015/10/iStock_000055597470_Small.jpg");
+    width: 50%;
+    border: 2px solid steelblue;
+    box-shadow: 1px 1px slateblue;
+    text-align: center;
+    margin: 50px auto;
+}
+
+.form {
+  margin: 5px;
+  padding: 5pc;
+}
+
+.form input {
+    margin: 5px;
+    text-align: center;
+    border-radius: 5px;
+
+}
